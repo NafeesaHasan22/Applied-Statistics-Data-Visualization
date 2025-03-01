@@ -10,8 +10,8 @@ Features:
 3. Customizable views to facilitate in-depth analysis.
 
 Fields Included:
-1. Nafeesa Hasan Shaik Khaja Nagoor.pbix - The Power BI file containing the dashboard. 
-2. Nafeesa Hasan Shaik Khaja Nagoor.pdf - A comprehensive report detailing the dashboard's design, methodology, and critical evaluation.
+1. Global Economic Dashboard.pbix - The Power BI file containing the dashboard. 
+2. A comprehensive report detailing the dashboard's design, methodology, and critical evaluation.
 
 Software/Tools Used:
 Power BI for data visualisation.
@@ -33,9 +33,9 @@ Features:
 3. Recommendations for mix optimization based on model findings.
 
 Fields Included:
-1. Nafeesa Hasan Shaik Khaja Nagoor_Task 2.R - R Script file containing the code for data analysis and modelling.
+1. Regression Models.R - R Script file containing the code for data analysis and modelling.
 2. concrete compressive strength.xlsx - Dataset used for the analysis.
-3. Nafeesa Hasan Shaik Khaja Nagoor.pdf - Detailed report on the research, methodology, results, and optimization recommendations. 
+3. Detailed report on the research, methodology, results, and optimization recommendations. 
 
 Software/Tools Used:
 R Studio for data analysis and regression modelling.
@@ -57,9 +57,9 @@ Features:
 3. Insights into price volatility and investor sentiment.
 
 Fields Included:
-1. Nafeesa Hasan Shaik Khaja Nagoor_Task 3.R - R Script file containing the code for time series modelling.
+1. Time Series Forecast.R - R Script file containing the code for time series modelling.
 2. ADXN.csv - Dataset used for the analysis.
-3. Nafeesa Hasan Shaik Khaja Nagoor.pdf - A report discussing the research question, methodology, model performance, and investment implications.
+3. A report discussing the research question, methodology, model performance, and investment implications.
 
 Software/Tools Used:
 R Studio for time series modelling.
